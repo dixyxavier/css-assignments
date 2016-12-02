@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.fright {
+    float: right;
+}
+
+.fleft {
+    float: left;
+}
+
+.clearall {
+    clear: both;
+}
+
+.position-wrapper {
+    width: 500px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
